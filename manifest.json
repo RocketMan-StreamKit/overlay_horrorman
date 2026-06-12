@@ -1,0 +1,25 @@
+{
+  "name": {
+    "en": "Strange stranger",
+    "ru": "Странный незнакомец",
+    "uk": "Дивний незнайомець"
+  },
+  "description": {
+    "en": "We have no idea who this guy is, but his appearance will clearly be sudden 😈",
+    "ru": "Понятия не имеем, кто этот парень, но его появление будет явно внезапным 😈",
+    "uk": "Поняття не маємо, хто цей хлопець, але його поява буде явно раптовою 😈"
+  },
+  "type": "overlay",
+  "version": "1.0.0",
+  "author": "RocketMan",
+  "icon": "logo.svg",
+  "overlay": {
+    "audio": "audio.mp3",
+    "video": "video.webm",
+    "defaultVolume": 50,
+    "defaultDuration": 3,
+    "lockDuration": true,
+    "durationMin": 3,
+    "durationMax": 3
+  }
+}
